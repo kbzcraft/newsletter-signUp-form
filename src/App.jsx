@@ -52,8 +52,8 @@ function App() {
             </div>
             <div className="bg-img">
                 <picture>
-                    <source media="(min-width:585px)" srcSet="./assets/images/illustration-sign-up-desktop.svg" />
-                    <img src="./assets/images/illustration-sign-up-mobile.svg" alt="illustration" />
+                    <source media="(min-width:585px)" srcSet="https://raw.githubusercontent.com/kbzcraft/newsletter-signUp-form/af9b02cef39f815d1cfece1e6555027cf78c5d2b/public/assets/images/illustration-sign-up-desktop.svg" />
+                    <img src="https://raw.githubusercontent.com/kbzcraft/newsletter-signUp-form/af9b02cef39f815d1cfece1e6555027cf78c5d2b/public/assets/images/illustration-sign-up-mobile.svg" alt="illustration" />
                 </picture>
             </div>
         </section>
@@ -63,7 +63,7 @@ function App() {
 
       {/* <!-- Success message start --> */}
       <section className="success">
-            <img src="/assets/images/icon-success.svg" alt="sucessed" />
+            <img src="https://raw.githubusercontent.com/kbzcraft/newsletter-signUp-form/main/public/assets/images/icon-success.svg" alt="sucessed" />
             <h1>
                 Thanks for subscribing!
             </h1>
