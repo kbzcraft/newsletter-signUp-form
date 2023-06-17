@@ -52,8 +52,8 @@ function App() {
             </div>
             <div className="bg-img">
                 <picture>
-                    <source media="(min-width:585px)" srcSet="/assets/images/illustration-sign-up-desktop.svg" />
-                    <img src="/assets/images/illustration-sign-up-mobile.svg" alt="illustration" />
+                    <source media="(min-width:585px)" srcSet="./assets/images/illustration-sign-up-desktop.svg" />
+                    <img src="./assets/images/illustration-sign-up-mobile.svg" alt="illustration" />
                 </picture>
             </div>
         </section>
